@@ -1,0 +1,19 @@
+{
+  "name": "html-webpack-random-extend-plugin",
+  "version": "1.0.0",
+  "description": "extends random cdnprefix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnerhp/html-webpack-random-extend-plugin.git"
+  },
+  "author": "winnerhp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnerhp/html-webpack-random-extend-plugin/issues"
+  },
+  "homepage": "https://github.com/winnerhp/html-webpack-random-extend-plugin#readme"
+}
